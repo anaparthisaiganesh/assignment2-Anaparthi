@@ -3,3 +3,31 @@
 ### The Metropolitan Museum of Art 
 
 The Metropolitan Museum of Art of New York City, colloquially **the Met**, is the largest art museum in the **Western Hemisphere**. Its permanent collection contains over two million works, divided among 17 **curatorial departments**.
+
+***
+## Directions to the Museum
+The nearst air port to thr museum is New York Skyports Seaplane Base (NYS) Airport. The directions to the museum from the air port is 
+
+1. Get on I-78 Express E/Phillipsburg–Newark Expy from Hotel Rd
+2. Take I-95 N, NJ-495 E and Lincoln Tunnel to Dyer Ave in Manhattan, New York. Take the exit toward 42 St/NY-9A/Uptown/Theater District from Lincoln Tunnel
+    1. Merge onto I-78 Express E/Phillipsburg–Newark Expy
+    2. I-78 Express E/Phillipsburg–Newark Expy turns slightly left and    becomes I-78 E/Phillipsburg–Newark Expy
+    3. Keep left at the fork, follow signs for I-95 N and merge onto I-95 N
+3. Take 8th Ave and Central Park West to 5th Ave/Museum Mile
+
+***
+Please around Musuem.
+
+* The National 9/11 Memorial & Museum.
+* The Metropolitan Museum of Art.
+* Central Park.
+* Empire State Building.
+* Top of the Rock.
+* Statue of Liberty.
+* Brooklyn Bridge.
+* Manhattan Skyline.
+
+***
+
+
+
