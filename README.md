@@ -32,5 +32,18 @@ Please around Musuem.
 
 *** 
 
+#### Locations and Cities
+
+  The table below represents the famous loactions I have visited.
+
+  |City | Locations | Time|
+  | ----|-----------|-----|
+  |Rajahmundry| River| 10 days|
+  |Chennai|Beach| 5 Days|
+  |Hyderabad|charminar|5 days|
+
+ ***
+ 
+
 
 
