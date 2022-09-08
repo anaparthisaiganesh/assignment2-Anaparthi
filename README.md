@@ -45,13 +45,31 @@ Please around Musuem.
  ***
  #### Pithy quotes
  >“Nevermore” - Edgar Allen Poe, the patron saint of the misanthropes among us.*Albert*
- 
+
  >“Don’t Be Obtuse” - I feel like I could say this to everyone. Everyone. Every. Day.*Albert*
 
  ***
 
+> Is it possible to use javascript to modify a script element?
 
+ <https://stackoverflow.com/questions/73642880/is-it-possible-to-use-javascript-to-modify-a-script-element>
 
+ ```
+ <form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+```
+<https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+
+***
 
 
 
