@@ -43,7 +43,13 @@ Please around Musuem.
   |Hyderabad|charminar|5 days|
 
  ***
- 
+ #### Pithy quotes
+ >“Nevermore” - Edgar Allen Poe, the patron saint of the misanthropes among us.*Albert*
+ >“Don’t Be Obtuse” - I feel like I could say this to everyone. Everyone. Every. Day.*Albert*
+
+
+
+
 
 
 
