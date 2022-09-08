@@ -49,8 +49,9 @@ Please around Musuem.
  >“Don’t Be Obtuse” - I feel like I could say this to everyone. Everyone. Every. Day.*Albert*
 
  ***
-
+ #### Code Fencing
 > Is it possible to use javascript to modify a script element?
+  Go to the below link for reference.
 
  <https://stackoverflow.com/questions/73642880/is-it-possible-to-use-javascript-to-modify-a-script-element>
 
@@ -67,7 +68,10 @@ Please around Musuem.
 <iframe name="my-iframe" src="iframe.php"></iframe>
 
 ```
+Go to the below link for reference.
+
 <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+
 
 ***
 
