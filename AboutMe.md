@@ -1,0 +1,2 @@
+I am Anaparthi Sai Ganesh from India. I have completed my under graduation in 2019 from sathybama institute of science and technology. I got an opportunity to work with multinational companies like DXC and Deloitte. Currently I am pursing my masters in North West Missouri State University in Applied  computer science stream. My future goal is to become a amazon enginer.
+![My Pic](\Users\S555230\Downloads)
